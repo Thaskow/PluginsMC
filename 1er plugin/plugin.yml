@@ -1,0 +1,8 @@
+name : Cassagedepioche
+version : 0.1
+author : moi
+main: fr.thaskow.test.EventHandling
+commands:
+  test:
+    description: Ceci est une commande de test
+    permission: test.use
